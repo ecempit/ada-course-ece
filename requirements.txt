@@ -1,0 +1,34 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+colorama==0.4.6
+contourpy @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/contourpy_1701817388761/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+fonttools @ file:///C:/b/abs_f47gnfqnx0/croot/fonttools_1713551644747/work
+idna==3.7
+iniconfig==2.0.0
+kiwisolver @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/kiwisolver_1699476425777/work
+matplotlib @ file:///C:/b/abs_ddmsoovv14/croot/matplotlib-suite_1713336426307/work
+mkl-fft @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_fft_1699473528480/work
+mkl-random @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_random_1699473588250/work
+mkl-service==2.4.0
+networkx==3.3
+numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
+packaging @ file:///C:/b/abs_cc1h2xfosn/croot/packaging_1710807447479/work
+pillow @ file:///C:/b/abs_95ls_qh4c2/croot/pillow_1714398870615/work
+pluggy==1.5.0
+ply @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/ply_1699473999871/work
+pyparsing @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pyparsing_1699476875614/work
+PyQt5==5.15.10
+PyQt5-sip @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pyqt-split_1699478669290/work/pyqt_sip
+pytest==8.2.1
+python-dateutil @ file:///C:/b/abs_a6ui0hquwx/croot/python-dateutil_1715108843988/work
+PyYAML==6.0.1
+Random-Word==1.0.11
+requests==2.32.2
+setuptools==69.5.1
+sip @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/sip_1699475590677/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tornado @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/tornado_1699496839511/work
+unicodedata2 @ file:///C:/b/abs_b6apldlg7y/croot/unicodedata2_1713212998255/work
+urllib3==2.2.1
+wheel==0.43.0

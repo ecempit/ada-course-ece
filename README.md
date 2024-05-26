@@ -2,7 +2,7 @@
 
 A simple project, consisting of distinquished and independent small .py files, each one of them providing a solution to algorithm analysis tasks.
 
-This project is primarily developed for personal presentation purposes, showcasing various algorithms and techniques implemented in Python 🐍. However, anyone who finds the code useful and wishes to utilize it for their own projects or learning purposes is welcome to do so. Feel free to explore the code, modify it according to your needs, and use it in accordance with the license provided in the repository. If you have any questions or feedback, please don't hesitate to reach out. Happy coding! :muscle:
+This project is primarily developed for personal presentation purposes, showcasing various algorithms and techniques implemented in Python. However, anyone who finds the code useful and wishes to utilize it for their own projects or learning purposes is welcome to do so. Feel free to explore the code, modify it according to your needs, and use it in accordance with the license provided in the repository. If you have any questions or feedback, please don't hesitate to reach out. Happy coding! :muscle:
 
 ## Contents <!-- omit in toc -->
 
@@ -16,6 +16,8 @@ This project is primarily developed for personal presentation purposes, showcasi
 
 
 ## Structure
+
+Project has the below structure:
 
 The project consists of three distinquished and independent small .py files:
 
